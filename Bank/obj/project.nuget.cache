@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vP3AmQdnP6QaeNLg8wQC/Mz1sjlt5IjI4i2LGxLc2oaNp6AZQRDY/6Y3j6eHP5CmbA0XP4UjEuK+kjPKCfhKSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gmoalla_mantu\\source\\repos\\Bank\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

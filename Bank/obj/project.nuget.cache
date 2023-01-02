@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vP3AmQdnP6QaeNLg8wQC/Mz1sjlt5IjI4i2LGxLc2oaNp6AZQRDY/6Y3j6eHP5CmbA0XP4UjEuK+kjPKCfhKSQ==",
+  "dgSpecHash": "+doRwwKlmRZ060yQ6pdtUHvqYumuHiuFl7m8FrPOxG0wF/1zdhT65uUpF42qf/BIedLNiWbULTBA7sDJ7Z8m2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\gmoalla_mantu\\source\\repos\\Bank\\Bank\\Bank.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.applicationinsights\\2.21.0\\microsoft.applicationinsights.2.21.0.nupkg.sha512",
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.applicationinsights.dependencycollector\\2.21.0\\microsoft.applicationinsights.dependencycollector.2.21.0.nupkg.sha512",
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
+    "C:\\Users\\gmoalla_mantu\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -29,3 +29,6 @@ C:\Users\gmoalla_mantu\source\repos\Bank\Bank\obj\Debug\net6.0\refint\Bank.dll
 C:\Users\gmoalla_mantu\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.pdb
 C:\Users\gmoalla_mantu\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.genruntimeconfig.cache
 C:\Users\gmoalla_mantu\source\repos\Bank\Bank\obj\Debug\net6.0\ref\Bank.dll
+C:\Users\gmoalla_mantu\source\repos\Bank\Bank\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+C:\Users\gmoalla_mantu\source\repos\Bank\Bank\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+C:\Users\gmoalla_mantu\source\repos\Bank\Bank\obj\Debug\net6.0\Bank.csproj.CopyComplete

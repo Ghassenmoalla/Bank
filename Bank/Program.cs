@@ -1,8 +1,20 @@
+using Microsoft.ApplicationInsights.Extensibility;
+using CustomInitializer.Telemetry;
+using Bank;
+
+
+
+void ConfigureServices(IServiceCollection services)
+{
+    services.AddSingleton<ITelemetryInitializer, MyTelemetryInitializer>();
+}
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddHealthChecks();
+
 var app = builder.Build();
 app.MapHealthChecks("/health");
 
